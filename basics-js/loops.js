@@ -32,3 +32,4 @@ do {
 }
 while (k < 10);
 console.log(text)
+
