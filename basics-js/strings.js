@@ -12,6 +12,8 @@ const MyName = new String('NishantK')
  console.log(MyName.length);
  console.log(MyName.toUpperCase());
  console.log(MyName.charAt(3));
+ console.log(MyName.indexOf('t'));
+ 
  
  
  
