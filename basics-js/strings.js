@@ -14,6 +14,7 @@ const MyName = new String('NishantK')
  console.log(MyName.charAt(3));
  console.log(MyName.indexOf('t'));
  
+console.log(MyName.concat("Hello"));
  
  
  
