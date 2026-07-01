@@ -7,3 +7,11 @@ function mul(n1,n2){
     console.log(n1*n2);
 }
 mul(3,4)
+
+function div(d1,d2)
+{
+    console.log( d1/d2);
+    []
+}
+div(6,2)
+
