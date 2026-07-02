@@ -15,3 +15,10 @@ function div(d1,d2)
 }
 div(6,2)
 
+// Function to compute the product of p1 and p2
+function myFunction(p1, p2) {
+ return p1 * p2;
+}
+// Calling the function
+let result = myFunction(4, 3);
+console.log(result); // Output: 12
